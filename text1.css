@@ -1,0 +1,16 @@
+h1{font-family: Arial,sans-serif;
+	font-size: 150px;color: #369;
+	padding-bottom: 6px;
+	border-bottom: 4px solid #ccc;
+/*	display: block;*/
+	background:url(101.jpg);
+	background-size: 100% 100%;
+	margin-top: 2px;
+}
+.c1{color:#B3EE3A;}
+.c2{color:#714671;}
+.c3{color:#00F5FF;}
+.c4{color:#00EE00;}
+.c5{color:#FF0000;}
+.c6{color:#800080;}
+.c7{color:#0000FF;}
